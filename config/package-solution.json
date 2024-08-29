@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "multiple-groups-client-side-solution",
+    "id": "80013fac-aca5-4e8b-b185-57fefbe67863",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/multiple-groups.sppkg"
+  }
+}
